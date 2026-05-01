@@ -79,9 +79,9 @@ etc.
 3. Go outside and gain XP from picking a flower
 
 ## 🎯 Intended Use
-AzerothCore (3.3.5a / Wrath of the Lich King)
-Servers running Eluna
-People who think the whole world should matter
+AzerothCore (3.3.5a / Wrath of the Lich King).
+Servers running Eluna.
+People who think the whole world should matter.
 
 ## ⚖️ Balance Notes
 
