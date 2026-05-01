@@ -76,7 +76,7 @@ etc.
 
 1. Drop the file into your Eluna scripts folder:
 2. Restart the server or .reload eluna
-3. Go outside and gain XP from picking a flower
+3. Go outside and gain XP from picking a flower.
 
 ## 🎯 Intended Use
 AzerothCore (3.3.5a / Wrath of the Lich King).
@@ -85,11 +85,11 @@ People who think the whole world should matter.
 
 ## ⚖️ Balance Notes
 
-It won’t replace questing
-It won’t trivialize progression
-It just fills in the situations where the game gives you nothing
+It won’t replace questing.
+It won’t trivialize progression.
+It just fills in the situations where the game gives you nothing.
 
-If your players suddenly hit max level by gardening and working the mines, good for them
+If your players suddenly hit max level by gardening and working the mines, good for them.
 
 ## 🤖 AI Usage Disclosure (Yes, Really)
 
