@@ -103,8 +103,8 @@ The code was generated and refined with AI help
 
 Because:
 
-A world where doing content, even old content, that gives zero reward feels broken
-Killing something should always feel like it mattered at least a little
+A world where doing content, even old content, that gives zero reward feels broken. 
+Killing something should always feel like it mattered at least a little. 
 
 
 ## 📜 License
